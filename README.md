@@ -6,8 +6,8 @@ A simple example of Node.JS Url method in action
 Install the module with: `npm install Basic-http-server-with-router`
 
 ```javascript
-var Basic_http_server_with_router = require('Basic-http-server-with-router');
-CreateServer.awesome(); // "awesome"
+var urlHelper = require('urlHelper');
+urlHelper.CreateServer();
 ```
 
 ## Contributing
